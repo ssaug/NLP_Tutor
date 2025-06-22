@@ -1,9 +1,9 @@
 
 
 1. Clone the repository:
-   git clone https://github.com/BrunoTanabe/chatpdf-ai-powered-document-interaction.git
+   git clone https://github.com/ssaug/NLP_Tutor.git
 2. Navigate to the project directory:
-   cd chatpdf-ai-powered-document-interaction
+   cd NLP_Tutor
 3. Install the dependencies:
    pip install -r requirements.txt
 4. Run Streamlit:
